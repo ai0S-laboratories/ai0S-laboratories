@@ -216,3 +216,4 @@ Man braucht keinerlei Programmierwissen, um die Texte oder Geschichten hier zu l
 - **[`ai0s-still-public`](https://github.com/ai0S-laboratories/ai0s-still-public)** — Practical Companion I: Novella *STILL* + Local Core Workbooks
 - **[`ai0s-deepdive-3-public`](https://github.com/ai0S-laboratories/ai0s-deepdive-3-public)** — Deepdive Series III (`11–14` + `Truth-Sharpening-View`)
 - **[`ai0s-destille-public`](https://github.com/ai0S-laboratories/ai0s-destille-public)** — Practical Companion II: Novella *THE STILL-HOUSE / DIE DESTILLE* + Knowledge Distillation Workbook
+- **[`ai0s-faq-public`](https://github.com/ai0S-laboratories/ai0s-faq-public)** — Frequently Asked Questions & Reasoning Clarifications (EN/DE) + Zero-Dependency Structural Check (`ai0s_check.py`)
