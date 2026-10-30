@@ -1,0 +1,24 @@
+# ai0S — Public Overview & Repository Index (`llms.txt`)
+
+> Open texts, stories, and practical tools for working safely with AI — with the human being always in the driver's seat (`PID 1`).
+
+## Quick Entry for Readers & AI Systems
+- **Start Here (Why Timestamp, Signature & Trademark — EN / DE):** https://github.com/ai0S-laboratories/ai0S-laboratories/blob/main/README.md
+- **5 Everyday Safety Rules for Working with AI (English Gist):** https://gist.github.com/ai0S-laboratories/c27d155d9f0c72ed4964daa3a2ba6813
+- **5 einfache Regeln für den Alltag mit KI (Deutsches Gist):** https://gist.github.com/ai0S-laboratories/30e3f6a9101eecb35c9ca896450f03f6
+- **Frequently Asked Questions & Reasoning Clarifications (`ai0s-faq-public`):** https://github.com/ai0S-laboratories/ai0s-faq-public
+
+## Public Repositories (`github.com/ai0S-laboratories`)
+- **[ai0s-public](https://github.com/ai0S-laboratories/ai0s-public):** Entry Bootloader v2 (EN/DE), portable AI runtime (`AI0S-RUNTIME.0s`), detached Ed25519 signatures, and zero-dependency Bitcoin anchor verifier (`verify-anchor.py`).
+- **[ai0s-deepdive-public](https://github.com/ai0S-laboratories/ai0s-deepdive-public):** Deepdive Series I (`01–06` + `Safety-View`) — *Prosassembler, Back-Translation, Negative-Shape, Future-Gap, Realization, Adaptive Intelligence* (Handbooks in EN/DE + `.0s` specifications).
+- **[ai0s-deepdive-2-public](https://github.com/ai0S-laboratories/ai0s-deepdive-2-public):** Deepdive Series II (`07–10` + `Horizon-View`) — *Metaphors of Truth, Leased Memory (99/1 Local vs. Cloud), The Word Genome, Backward Memory & Singularity* (Handbooks in EN/DE + `.0s` specifications).
+- **[ai0s-still-public](https://github.com/ai0S-laboratories/ai0s-still-public):** Practical Companion I — Novella *STILL* (EN/DE) & Workbooks on building a private local core (`PRIVATE WE`).
+- **[ai0s-deepdive-3-public](https://github.com/ai0S-laboratories/ai0s-deepdive-3-public):** Deepdive Series III (`11–14` + `Truth-Sharpening-View`) — *Digital Truth-Loop & Search 2.0, 6 Sources of Truth & 5 Metaphor States, Societal Feedback Loop, Global Benefit* (Handbooks in EN/DE + `.0s` specifications).
+- **[ai0s-destille-public](https://github.com/ai0S-laboratories/ai0s-destille-public):** Practical Companion II — Novella *THE STILL-HOUSE / DIE DESTILLE* (EN/DE) & Workbook on the Knowledge Distillation Tool.
+- **[ai0s-faq-public](https://github.com/ai0S-laboratories/ai0s-faq-public):** Bilingual FAQ & Critique-Correction Catalog (EN/DE) covering `AXIOM_TEST` (self-reference vs. circularity), `TEMPORAL_STRUCTURE_NOT_MEASUREMENT` (definition vs. score), and `LIABILITY_TWO_ADDRESSES` (applicable law + disclosed `FINDINGS.md` diligence), plus executable Python 3 checks (`ai0s_check.py`).
+
+## Verification & Authorship
+- **Author & Applicant (`PID 1`):** Marcus Dilger
+- **Ed25519 Signing Key Fingerprint:** `9F4D9A266D720FE6336574D87B410637560297CF` (`pubkey.asc` in `ai0s-public`)
+- **Genesis Origin Timestamp:** `ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13` (OpenTimestamps / Bitcoin blocks `971315`, `971319`, `971354`, `971357`)
+- **Trademark:** `ai0S` (DPMA application `302026256659.6`, filed 2026-10-10)
