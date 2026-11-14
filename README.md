@@ -1,6 +1,8 @@
 # WHY THIS PROJECT USES A TIMESTAMP, A SIGNATURE, AND A TRADEMARK
 ## WARUM DIESES PROJEKT EINEN ZEITSTEMPEL, EINE SIGNATUR UND EINE MARKE NUTZT
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24217937.svg)](https://doi.org/10.5281/zenodo.24217937)
+
 > **Quick Navigation / Schnellnavigation:**
 > - 🇬🇧 **[English Version](#english)**
 >   - [1. Why the Blockchain Timestamp?](#english-1) | [2. Why the Digital Signature?](#english-2) | [3. Why the Trademark?](#english-3)

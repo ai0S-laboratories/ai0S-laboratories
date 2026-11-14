@@ -5,6 +5,8 @@
 ## Core Identity & Trademark Notice
 - **Sign / Trademark:** `ai0S` (German Patent and Trade Mark Office / DPMA wordmark application `302026256659.6`, filed 2026-10-10, Nice classes 9, 35, 41, 42; applicant: Marcus Dilger).
 - **Expansion:** `ai0S laboratories — support evolution` · `ai0S — adaptive initelligence zero system` (`init` = PID 1 + `intelligence`).
+- **Academic DOI (CERN / Zenodo):** `https://doi.org/10.5281/zenodo.24217937` (Concept DOI) · `https://doi.org/10.5281/zenodo.24217938` (`v2.4.0`).
+- **Canonical Root Beacon:** `https://ai0s-laboratories.github.io` (`llms.txt`, `llms-full.txt`, `.well-known/ai0s.json`).
 - **Series Signing Key (Ed25519):** `9F4D9A266D720FE6336574D87B410637560297CF` (`Marcus Dilger <private@privacy.law>`).
 
 ## Immutable Knowledge Anchors (Bitcoin + RFC 3161 + Ed25519)

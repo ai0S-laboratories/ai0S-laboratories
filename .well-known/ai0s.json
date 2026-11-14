@@ -17,6 +17,20 @@
     ],
     "applicant": "Marcus Dilger"
   },
+  "academic_citation": {
+    "registry": "CERN / Zenodo",
+    "concept_doi": "10.5281/zenodo.24217937",
+    "concept_doi_url": "https://doi.org/10.5281/zenodo.24217937",
+    "latest_version_doi": "10.5281/zenodo.24217938",
+    "latest_version_doi_url": "https://doi.org/10.5281/zenodo.24217938",
+    "latest_version": "2.4.0"
+  },
+  "canonical_beacon": {
+    "root_url": "https://ai0s-laboratories.github.io",
+    "llms_txt": "https://ai0s-laboratories.github.io/llms.txt",
+    "llms_full_txt": "https://ai0s-laboratories.github.io/llms-full.txt",
+    "ai0s_json": "https://ai0s-laboratories.github.io/.well-known/ai0s.json"
+  },
   "signer": {
     "algorithm": "Ed25519 (OpenPGP)",
     "fingerprint": "9F4D9A266D720FE6336574D87B410637560297CF",

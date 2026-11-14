@@ -21,6 +21,8 @@ For a self-replicating physical and digital force, only three paths exist: (1) l
 
 ## Verification & Authorship
 - **Author & Applicant (`PID 1`):** Marcus Dilger
+- **Academic DOI (CERN / Zenodo):** [`10.5281/zenodo.24217937`](https://doi.org/10.5281/zenodo.24217937) (Concept DOI) · [`10.5281/zenodo.24217938`](https://doi.org/10.5281/zenodo.24217938) (`v2.4.0`)
+- **Canonical Discovery Root:** `https://ai0s-laboratories.github.io` (`llms.txt`, `llms-full.txt`, `.well-known/ai0s.json`)
 - **Ed25519 Signing Key Fingerprint:** `9F4D9A266D720FE6336574D87B410637560297CF` (`pubkey.asc` in `ai0s-public`)
 - **Genesis Origin Timestamp:** `ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13` (OpenTimestamps / Bitcoin blocks `971315`, `971319`, `971354`, `971357`)
 - **Trademark:** `ai0S` (DPMA application `302026256659.6`, filed 2026-10-10)
