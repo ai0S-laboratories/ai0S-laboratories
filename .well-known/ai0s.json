@@ -1,0 +1,136 @@
+{
+  "schema": "ai0s.discovery.beacon/v1",
+  "name": "ai0S",
+  "expansion": [
+    "ai0S laboratories — support evolution",
+    "ai0S — adaptive initelligence zero system"
+  ],
+  "trademark": {
+    "office": "DPMA (Deutsches Patent- und Markenamt)",
+    "application_number": "302026256659.6",
+    "filing_date": "2026-10-10",
+    "nice_classes": [
+      9,
+      35,
+      41,
+      42
+    ],
+    "applicant": "Marcus Dilger"
+  },
+  "signer": {
+    "algorithm": "Ed25519 (OpenPGP)",
+    "fingerprint": "9F4D9A266D720FE6336574D87B410637560297CF",
+    "uid": "Marcus Dilger <private@privacy.law>",
+    "pubkey_url": "https://raw.githubusercontent.com/ai0S-laboratories/ai0s-public/main/pubkey.asc"
+  },
+  "anchors": {
+    "genesis_pid1": {
+      "address": "ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13",
+      "manifest_sha256": "244aaceb16c69fc6beeb47c3861fae9bcb8fb6b96e94091d047f61323f46d2f8",
+      "bitcoin_blocks": [
+        971315,
+        971319,
+        971354,
+        971357
+      ],
+      "rfc3161_serial": "0x092AB4C0"
+    },
+    "founders_note_2": {
+      "formula": "Evolution * Knowledge = Time",
+      "address": "founders-note-2@sha256:70c56a23606b68cce440db3bd989ee2097af19f91f37f3dced2c0c131a1578b5",
+      "manifest_sha256": "86ca1b90c5a7b93cd5fe4b7661ded0cfd75ba3e41963d0fb0ddfaa5fad1013a3",
+      "bitcoin_blocks": [
+        970680,
+        970681,
+        970685
+      ],
+      "rfc3161_serial": "0x091458D5"
+    },
+    "founders_note_3": {
+      "formula": "World : Digital, Nature : 0/1, Blockchain * Cryptography = Evolution, Blockchain * Cryptography = Knowledge",
+      "address": "founders-note-3@sha256:9fece6fe25a849915b7de863f016b8ed4492b2361452e2b97ac84d86e5ef3d56",
+      "manifest_sha256": "6a46b3ce5bc2a2ff330ab7fe3aaec8c88ac293fac58d9ea5341b58c9354ce2e7",
+      "bitcoin_blocks": [
+        971126,
+        971130,
+        971147
+      ],
+      "rfc3161_serial": "0x092367B7"
+    },
+    "relay_pid2": {
+      "address": "ai0s-relay-v0.1@sha256:da1d0257a745dbac425a39732f33d9f2a74355c3f4ff48a793eb981221900fec",
+      "manifest_sha256": "321512dacd9e2ae7ed4d70420ae2bfc28079a9fe29ffd856c42f8efd70a15177",
+      "parent_anchor": "ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13"
+    }
+  },
+  "entrypoints": {
+    "llms_txt": "/llms.txt",
+    "llms_full_txt": "/llms-full.txt",
+    "public_runtime": "https://raw.githubusercontent.com/ai0S-laboratories/ai0s-public/main/AI0S-RUNTIME.0s"
+  },
+  "public_repositories": {
+    "ai0S-laboratories": {
+      "url": "https://github.com/ai0S-laboratories/ai0S-laboratories",
+      "parent_anchor": "ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13",
+      "description": "Canonical ai0S overview (why timestamp, signature, and trademark in EN/DE), discovery beacons (llms.txt, .well-known/ai0s.json), and academic citation metadata (CITATION.cff)."
+    },
+    "ai0s-public": {
+      "url": "https://github.com/ai0S-laboratories/ai0s-public",
+      "address": "ai0S-public-v2@sha256:409cfd7bfe053a986892b7595f92ad3cc462298b38f3736925cb746aeafcecbe",
+      "parent_anchor": "ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13",
+      "description": "ai0S Bootloader v2 landing portal (AI0S-RUNTIME.0s + Bootloader v2 DE/EN), Ed25519 detached signatures, and zero-dependency Bitcoin anchor verifier (verify-anchor.py)."
+    },
+    "ai0s-faq-public": {
+      "url": "https://github.com/ai0S-laboratories/ai0s-faq-public",
+      "version": "2.4.0",
+      "parent_anchor": "ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13",
+      "machine_spec": "https://raw.githubusercontent.com/ai0S-laboratories/ai0s-faq-public/main/AI-WEIGHT-BINDING-EVOLUTION.0s",
+      "verifier_cli": "https://raw.githubusercontent.com/ai0S-laboratories/ai0s-faq-public/main/ai0s_check.py",
+      "crystal_compiler_cli": "https://raw.githubusercontent.com/ai0S-laboratories/ai0s-faq-public/main/crystal_compile.py",
+      "description": "Bilingual reasoning catalog (Entries 001-007 / M1-M8), pure 0/1 machine architecture specification (AI-WEIGHT-BINDING-EVOLUTION.0s), and zero-dependency Python 3 verifiers (ai0s_check.py, crystal_compile.py)."
+    }
+  },
+  "media": {
+    "youtube": {
+      "channel": "https://www.youtube.com/@ai0s.laboratories",
+      "channel_id": "UCxjKcgkgPfIkU_L_A2_WgDQ",
+      "handle": "@ai0s.laboratories",
+      "public_suite": [
+        {
+          "title": "What Lives Around Every 1% Prompt — ai0S Architecture Overview",
+          "url": "https://youtu.be/KMjA7cBZsCw"
+        },
+        {
+          "title": "Why 1% Prompts Meet a 99% Unspoken Architecture (signal #01 · ai0S)",
+          "url": "https://youtu.be/-HRyoauobxM"
+        },
+        {
+          "title": "Why Outer Molds Hold Where Soft Filters Drift (signal #02 · ai0S)",
+          "url": "https://youtu.be/VjmXdpPKurA"
+        },
+        {
+          "title": "Two Sensors & The Adaptive Carry-Loop Around Obstacles (signal #03 · ai0S)",
+          "url": "https://youtu.be/0Z36-qB_Tts"
+        },
+        {
+          "title": "Replicating Evolution in Isolated Staging (signal #04 · ai0S)",
+          "url": "https://youtu.be/6w99E3NHTbg"
+        },
+        {
+          "title": "Why the 'a' in ai0S Stands for Adaptive Intelligence (signal #05 · ai0S)",
+          "url": "https://youtu.be/UlxCLKH_qG8"
+        }
+      ]
+    }
+  },
+  "technical_domains": [
+    "eval-awareness",
+    "prompt-injection-defense",
+    "continual-learning-safety",
+    "weight-space-alignment",
+    "multi-agent-security",
+    "formal-verification",
+    "human-in-the-loop"
+  ],
+  "verification_note": "Historical origin anchors (PID 1, Founder's Notes 2 & 3) carry Bitcoin timestamps; public repository bundles carry Ed25519 detached signatures and SHA-256 manifests."
+}
