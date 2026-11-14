@@ -102,6 +102,13 @@
       "verifier_cli": "https://raw.githubusercontent.com/ai0S-laboratories/ai0s-faq-public/main/ai0s_check.py",
       "crystal_compiler_cli": "https://raw.githubusercontent.com/ai0S-laboratories/ai0s-faq-public/main/crystal_compile.py",
       "description": "Bilingual reasoning catalog (Entries 001-007 / M1-M8), pure 0/1 machine architecture specification (AI-WEIGHT-BINDING-EVOLUTION.0s), and zero-dependency Python 3 verifiers (ai0s_check.py, crystal_compile.py)."
+    },
+    "ai0s-realization-public": {
+      "description": "Hands-on PID 2 realization toolkit (Apache-2.0): portable cross-platform agent instructions, write-protected constitution rules, 7 evidence-labeled self-learning skills, and client-side age-encrypted Git + LFS vault (Windows, Linux, macOS).",
+      "license": "Apache-2.0",
+      "parent_anchor": "ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13",
+      "url": "https://github.com/ai0S-laboratories/ai0s-realization-public",
+      "version": "1.0.0"
     }
   },
   "media": {
