@@ -8,14 +8,17 @@ authors:
     alias: "ai0S-laboratories"
 repository-code: "https://github.com/ai0S-laboratories/ai0S-laboratories"
 url: "https://github.com/ai0S-laboratories"
-doi: 10.5281/zenodo.24217937
+doi: 10.5281/zenodo.24429428
 identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24429428
+    description: "Zenodo Concept DOI for ai0S (always resolves to latest release)"
+  - type: doi
+    value: 10.5281/zenodo.24429429
+    description: "Zenodo Version DOI for v3.0.0"
   - type: doi
     value: 10.5281/zenodo.24217937
     description: "Historical v2.4 Zenodo Concept DOI"
-  - type: doi
-    value: 10.5281/zenodo.24217938
-    description: "Zenodo Version DOI for v2.4.0"
 abstract: >-
   Think of a shared autonomous vehicle you can genuinely lean back in: you
   alone choose the destination, any detour, and when to stop; the vehicle lifts

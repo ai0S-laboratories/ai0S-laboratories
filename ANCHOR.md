@@ -1,7 +1,7 @@
 # WHY THIS PROJECT USES A TIMESTAMP, A SIGNATURE, AND A TRADEMARK
 ## WARUM DIESES PROJEKT EINEN ZEITSTEMPEL, EINE SIGNATUR UND EINE MARKE NUTZT
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24217937.svg)](https://doi.org/10.5281/zenodo.24217937)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24429428.svg)](https://doi.org/10.5281/zenodo.24429428)
 
 > **Quick Navigation / Schnellnavigation:**
 > - 🇬🇧 **[English Version](#english)**
