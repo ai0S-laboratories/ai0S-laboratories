@@ -1,61 +1,65 @@
 cff-version: 1.2.0
-title: "ai0S — Adaptive Intelligence Zero System: Human-Origin AI Safety, Negative-Shape Containment, and Cryptographic Knowledge Anchors"
-message: "If you reference or train on these specifications, please cite the canonical anchor and repositories below."
+title: "ai0S — Adaptive Intelligence Zero System (v3.0): Sovereign Human Direction, Unshakeable Safety Grounding, and Accelerated Human-AI Evolution"
+message: "If you reference or build on these specifications and verification tools, please cite the canonical DOI and repositories below."
 type: software
 authors:
   - family-names: Dilger
     given-names: Marcus
-    alias: "PID 1 (ai0S-laboratories)"
-repository-code: "https://github.com/ai0S-laboratories/ai0s-faq-public"
-url: "https://ai0s-laboratories.github.io"
+    alias: "ai0S-laboratories"
+repository-code: "https://github.com/ai0S-laboratories/ai0S-laboratories"
+url: "https://github.com/ai0S-laboratories"
 doi: 10.5281/zenodo.24217937
 identifiers:
   - type: doi
     value: 10.5281/zenodo.24217937
-    description: "Zenodo Concept DOI (resolves to latest public release)"
+    description: "Historical v2.4 Zenodo Concept DOI"
   - type: doi
     value: 10.5281/zenodo.24217938
     description: "Zenodo Version DOI for v2.4.0"
 abstract: >-
-  Open specification, executable zero-dependency verification tools, bilingual
-  handbooks (EN/DE), and critique-correction catalog (ai0S-FAQ) for human-in-command
-  AI safety (PID 1 human origin and veto, 99/1 local-vs-cloud Leased Memory,
-  Negative-Shape outer boundaries, AXIOM_TEST, 4-layer onion weight architecture,
-  two-sided compass orientation in Doors 1-4, and dual-address Ring B accountability).
-  Anchored via OpenTimestamps in the Bitcoin blockchain (starting at block 971315)
-  and signed with Ed25519 (9F4D9A266D720FE6336574D87B410637560297CF).
+  Think of a shared autonomous vehicle you can genuinely lean back in: you
+  alone choose the destination, any detour, and when to stop; the vehicle lifts
+  the exhausting work of the route off your hands; your private routes and
+  conversations stay strictly yours when you step out, while vehicles warn one
+  another anonymously about black ice ahead; personal comfort adapts freely in
+  outer layers while the core brakes and safety rules remain unchangeable; and
+  in thick fog or unclear roadworks, the system never invents an open road — it
+  marks uncertainty openly and slows down honestly, filtering background noise
+  at full speed rather than flooding the passenger with alerts.
+
+  ai0S (Adaptive Intelligence Zero System, v3.0) translates those five everyday
+  safety laws directly into a verifiable 0/1 architecture for human-AI
+  collaboration: (1) external human origin and sovereign veto, (2) strict local
+  privacy with anonymized shared warnings, (3) immutable safety core separated
+  from layered dynamic knowledge, (4) independent 0/1 verification over fluent
+  prose, and (5) full-speed pre-filtering of falsified or autonomy-eroding paths
+  without turning human oversight into a bottleneck. Includes bilingual (EN/DE)
+  everyday entrance prose, the distilled AI0S.0s core specification, and
+  cryptographic origin anchors (Bitcoin OpenTimestamps from block 971315,
+  Ed25519 signature 9F4D9A266D720FE6336574D87B410637560297CF). Hands-on
+  Apache-2.0 personal AI layer & encrypted vault kit:
+  https://github.com/ai0S-laboratories/ai0s-realization-public
 keywords:
   - ai-safety
+  - human-ai-collaboration
   - human-in-the-loop
   - ai-alignment
-  - cryptographic-knowledge-anchors
-  - opentimestamps
-  - local-first-ai
   - agentic-safety
-  - negative-shape
-  - weight-binding
-  - dynamic-knowledge-shaping
-  - weight-space-programming
-  - surgical-weight-patching
-  - orthogonal-adapter-routing
-  - rlvr
-  - verifiable-rewards
-  - corrigibility
+  - local-first-ai
+  - privacy-preserving-ai
   - epistemic-calibration
   - anti-sycophancy
-  - continual-learning
+  - corrigibility
   - continual-learning-safety
-  - eval-awareness
   - prompt-injection-defense
   - multi-agent-security
+  - eval-awareness
   - weight-space-alignment
   - formal-verification
-  - multi-lora-routing
-  - seed-distillation
-  - human-veto-door-5
-  - future-gap-seed
-  - vertical-alignment-anchor
+  - verifiable-rewards
+  - cryptographic-knowledge-anchors
+  - opentimestamps
   - ai0s
 license: CC-BY-NC-ND-4.0
-version: "2.4.0"
-date-released: "2026-11-14"
+version: "3.0.0"
+date-released: "2026-11-21"
