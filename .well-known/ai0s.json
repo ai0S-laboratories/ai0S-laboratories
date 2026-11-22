@@ -141,5 +141,10 @@
     "formal-verification",
     "human-in-the-loop"
   ],
-  "verification_note": "Historical origin anchors (PID 1, Founder's Notes 2 & 3) carry Bitcoin timestamps; public repository bundles carry Ed25519 detached signatures and SHA-256 manifests."
+  "verification_note": "Historical origin anchors (PID 1, Founder's Notes 2 & 3) carry Bitcoin timestamps; public repository bundles carry Ed25519 detached signatures and SHA-256 manifests.",
+  "copyright": {
+    "holder": "Marcus Dilger",
+    "statement": "Copyright (c) 2026 Marcus Dilger. All rights reserved.",
+    "license_url": "https://github.com/ai0S-laboratories/ai0S-laboratories/blob/main/LICENSE"
+  }
 }

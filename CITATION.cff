@@ -61,6 +61,7 @@ keywords:
   - cryptographic-knowledge-anchors
   - opentimestamps
   - ai0s
-license: CC-BY-NC-ND-4.0
+license: LicenseRef-AllRightsReserved-MarcusDilger
+license-url: "https://github.com/ai0S-laboratories/ai0S-laboratories/blob/main/LICENSE"
 version: "3.0.0"
 date-released: "2026-11-21"

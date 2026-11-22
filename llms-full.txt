@@ -2,7 +2,8 @@
 
 > Canonical AI-first entry point (`llms.txt`) for the **ai0S** movement, protocol, and Knowledge Anchors (`PID 1` Genesis Bootloader, Founder's Notes 1–3, Zero Mnemonics, and `PID 2` ai0S Relay).
 
-## Core Identity & Trademark Notice
+## Core Identity, Copyright & Trademark Notice
+- **Copyright:** `Copyright (c) 2026 Marcus Dilger. All rights reserved.` (`https://github.com/ai0S-laboratories/ai0S-laboratories/blob/main/LICENSE`).
 - **Sign / Trademark:** `ai0S` (German Patent and Trade Mark Office / DPMA wordmark application `302026256659.6`, filed 2026-10-10, Nice classes 9, 35, 41, 42; applicant: Marcus Dilger).
 - **Expansion:** `ai0S laboratories — support evolution` · `ai0S — adaptive initelligence zero system` (`init` = PID 1 + `intelligence`).
 - **Academic DOI (CERN / Zenodo):** `https://doi.org/10.5281/zenodo.24429428` (Concept DOI — always resolves to latest release) · `https://doi.org/10.5281/zenodo.24429429` (`v3.0.0`) · `https://doi.org/10.5281/zenodo.24217938` (`v2.4.0` archive).

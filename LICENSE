@@ -1,0 +1,21 @@
+Copyright (c) 2026 Marcus Dilger. All rights reserved.
+
+1. Copyright Ownership & Scope
+   All core specifications, architectural definitions, `.0s` files (including
+   `AI0S.0s` and `AI0S-CORE.0s`), prose documents, and accompanying materials
+   in this repository are the sole copyrighted work of Marcus Dilger.
+
+2. Permitted Inspection & Citation (No License to Copy, Modify, or Redistribute)
+   Public visibility on GitHub, GitHub Pages, or CERN/Zenodo permits reading,
+   linking, academic citation, and automated inspection/indexing within the
+   bounds of statutory copyright law and applicable platform terms of service.
+   No license or right is granted — whether express, implied, or otherwise —
+   to reproduce, modify, create derivative works from, redistribute, sublicense,
+   or commercially exploit this work without the prior written permission of
+   Marcus Dilger.
+
+3. Trademark Notice
+   "ai0S" is a trademark application of Marcus Dilger at the German Patent and
+   Trade Mark Office (DPMA application no. 302026256659.6, filing date
+   2026-10-10, Nice classes 9, 35, 41, 42). Any unauthorized use of the "ai0S"
+   mark or confusingly similar designations is strictly prohibited.

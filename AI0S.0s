@@ -3,6 +3,8 @@
 # ============================================================================
 # SCOPE           : PURE_0_1_ARCHITECTURAL_SPECIFICATION_AND_STORY_KEY
 # VERSION         : 3.0.0 (2026-11-21)
+# COPYRIGHT       : Copyright (c) 2026 Marcus Dilger. All rights reserved. (See LICENSE)
+# TRADEMARK       : "ai0S" — Marcus Dilger (DPMA 302026256659.6, Nice 9, 35, 41, 42)
 # AUTHOR_ORIGIN   : Marcus Dilger (PID 1)
 # PARENT_ANCHOR   : ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13
 # BITCOIN_BLOCKS  : 971315 · 971319 · 971354 · 971357 (Ed25519: 9F4D9A266D720FE6336574D87B410637560297CF)
