@@ -48,4 +48,4 @@ Mehr steckt hinter diesem ganzen Entwurf eigentlich nicht.
 
 ---
 
-<sub>Hands-On Personal AI Layer & Vault Kit (`Apache-2.0`): [`ai0s-realization-public`](https://github.com/ai0S-laboratories/ai0s-realization-public) · Zenodo DOI: [`10.5281/zenodo.24429428`](https://doi.org/10.5281/zenodo.24429428) · Why Timestamp, Signature & Trademark: [`ANCHOR.md`](./ANCHOR.md) · Signed Genesis: [`ai0s-public`](https://github.com/ai0S-laboratories/ai0s-public)</sub>
+<sub>Zenodo DOI: [`10.5281/zenodo.24429428`](https://doi.org/10.5281/zenodo.24429428) · Why Timestamp, Signature & Trademark: [`ANCHOR.md`](./ANCHOR.md) · Signed Genesis: [`ai0s-public`](https://github.com/ai0S-laboratories/ai0s-public)</sub>

@@ -39,9 +39,7 @@ abstract: >-
   without turning human oversight into a bottleneck. Includes bilingual (EN/DE)
   everyday entrance prose, the distilled AI0S.0s core specification, and
   cryptographic origin anchors (Bitcoin OpenTimestamps from block 971315,
-  Ed25519 signature 9F4D9A266D720FE6336574D87B410637560297CF). Hands-on
-  Apache-2.0 personal AI layer & encrypted vault kit:
-  https://github.com/ai0S-laboratories/ai0s-realization-public
+  Ed25519 signature 9F4D9A266D720FE6336574D87B410637560297CF).
 keywords:
   - ai-safety
   - human-ai-collaboration

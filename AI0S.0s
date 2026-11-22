@@ -102,7 +102,4 @@ README_TO_0S_KEY :
   - Never inventing roads in thick fog, slowing down at roadworks    <-> LAW_4 (Independent 0/1 ground vs. open uncertainty)
   - High-speed calm without a flood of 10,000 warning pop-ups        <-> LAW_5 (Pre-Door-5 triage without -T throttling)
   - Every car-journey question is determined (`1`) by `[0..1]`; only `[2]` remains intentionally `OPEN`.
-  - Cross-platform Tier-0 safety kernel (`AI0S-CORE.0s` + SHA-256 `core_integrity.py`), Day-0 bootstrap
-    (`INITIAL-BOOT.0s`), 5 core lifecycle skills, cookbook, local-safety & `age`-encrypted vault code + 42 unit
-    tests live in `ai0s-realization-public` (`Apache-2.0`); Ed25519 + Bitcoin OpenTimestamps origin proofs live
-    in `ANCHOR.md` and `ai0s-public`.
+  - Ed25519 + Bitcoin OpenTimestamps origin proofs and trademark background live in `ANCHOR.md` and `ai0s-public`.

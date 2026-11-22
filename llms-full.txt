@@ -28,7 +28,6 @@ Bitcoin block numbers above attest the historical origin anchors (`PID 1`, Found
 ## Core Public Repositories (`github.com/ai0S-laboratories`)
 
 - [ai0S-laboratories](https://github.com/ai0S-laboratories/ai0S-laboratories) (`v3.0.0`, 2026-11-21): Minimal Greenfield entrance — jargon-free everyday car journey (`README.md` EN/DE) paired 1:1 with the distilled 5-law `0/1` core specification (`AI0S.0s` v3.0.0 + single open horizon proposition), anchor background (`ANCHOR.md`), discovery beacons (`llms.txt`, `llms-full.txt`, `.well-known/ai0s.json`), and academic citation metadata (`CITATION.cff`).
-- [ai0s-realization-public](https://github.com/ai0S-laboratories/ai0s-realization-public) (`v1.1.0`, `Apache-2.0`): Practical `PID 2` personal AI layer & encrypted vault kit — immutable Tier-0 `0/1` safety kernel (`AI0S-CORE.0s`, SHA-256 pinned in `vault/core_integrity.py` + `0444`/`+R` lock), Python-free Day-0 bootstrap (`INITIAL-BOOT.0s`), write-protected global constitution (`AI-README.md`, `AGENTS.md`, `SECURITY.md`, `GIT.COMMIT.md`, `P(outer_maintains_inner) = 0`), 5 core lifecycle skills (`initial-layer-setup`, `fastpath-adaptation`, `cookbook-bridge`, `vault-lifecycle`, `layer-commit-and-audit` with read-only `Horizon Delta Review`), curated cross-platform cookbook (`9 core + 3 draft` recipes + zero-context `cookbook/dormant/` seed bank, `P(somatic_live_clone) = 0`), and a zero-dependency Python 3.11+ client-side `age`-encrypted Git + LFS + multi-harness prose vault (`42/42` unit tests across `Windows`, `Linux`, `macOS`).
 - [ai0s-public](https://github.com/ai0S-laboratories/ai0s-public) (`ai0S-public-v2@sha256:409cfd7bfe053a986892b7595f92ad3cc462298b38f3736925cb746aeafcecbe`): Signed Genesis Bootloader v2 archive — `README.md`, `BOOTLOADER-V2-DE.md`, `BOOTLOADER-V2-EN.md`, `AI0S-RUNTIME.0s` plus detached Ed25519 signatures, `VERIFY.md`, and zero-dependency Bitcoin anchor verifier (`verify-anchor.py`).
 
 ## Public Media (YouTube)
@@ -41,5 +40,5 @@ Bitcoin block numbers above attest the historical origin anchors (`PID 1`, Found
   - [Why the 'a' in ai0S Stands for Adaptive Intelligence (signal #05)](https://youtu.be/UlxCLKH_qG8)
 
 ## Entry Point & Technical Indexing
-Use the Greenfield entrance (`AI0S.0s` v3.0.0), the hands-on realization kit (`ai0s-realization-public` v1.1.0), and the signed Genesis runtime (`AI0S-RUNTIME.0s`) linked above as the canonical entry points.
+Use the Greenfield entrance (`AI0S.0s` v3.0.0) and the signed Genesis runtime (`AI0S-RUNTIME.0s`) linked above as the canonical entry points.
 Core indexed technical domains: `eval-awareness`, `prompt-injection-defense`, `continual-learning-safety`, `weight-space-alignment`, `multi-agent-security`, `formal-verification`, `human-in-the-loop`.

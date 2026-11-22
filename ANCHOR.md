@@ -314,5 +314,4 @@ Ein festes Geländer am Abgrund – damit der Weg daneben frei und sicher bleibt
 
 ### Core Public Repositories / Zentrale Öffentliche Repositories (`ai0S-laboratories`)
 - **[`ai0S-laboratories`](https://github.com/ai0S-laboratories/ai0S-laboratories)** — Greenfield Entrance (`v3.0`): Everyday Car-Journey Overview (EN/DE), `AI0S.0s` Core Specification, Discovery Beacon (`llms.txt`, `.well-known/ai0s.json`) & Citation Metadata (`CITATION.cff`)
-- **[`ai0s-realization-public`](https://github.com/ai0S-laboratories/ai0s-realization-public)** — Hands-On `PID 2` Personal AI Layer & Vault Kit (`v1.1.0`, `Apache-2.0`): Day-0 `INITIAL-BOOT.0s`, Write-Protected Constitution Rules, 5 Core Lifecycle Skills, Curated Cookbook & Client-Side `age`-Encrypted Git/LFS Vault (`Windows`, `Linux`, `macOS`)
 - **[`ai0s-public`](https://github.com/ai0S-laboratories/ai0s-public)** — Signed Genesis Anchor (`v2`): Origin Bootloader v2 (EN/DE), Portable AI Runtime (`AI0S-RUNTIME.0s`), Ed25519 Signing Key & Independent Bitcoin Anchor Verifier (`verify-anchor.py`)
